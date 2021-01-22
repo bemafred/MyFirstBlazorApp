@@ -1,2 +1,2 @@
 # MyFirstBlazorApp
-VS Studio blazor test app.
+VS Studio Blazor test app.
